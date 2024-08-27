@@ -27,7 +27,7 @@ ruby nome_do_arquivo.rb
     Insira as informações solicitadas pelo programa.
 ```
 
-##Exemplo de Uso
+## Exemplo de Uso
 ```
 ruby
 
@@ -49,7 +49,7 @@ João
 Valor total pago  R$  6228.84
 Valor da entrada: R$  1000.00
 ```
-##Explicação do Cálculo
+## Explicação do Cálculo
 
    - Entrada: Se for aplicável, é calculada como 20% do valor do empréstimo.
    - Amortização: É calculada dividindo o saldo devedor pelo número de parcelas.
@@ -58,14 +58,14 @@ Valor da entrada: R$  1000.00
 
 Se não houver entrada, o saldo devedor é igual ao valor do empréstimo.
 
-##Requisitos
+## Requisitos
 
    - Ruby 2.x ou superior instalado no seu ambiente.
 
-##Contribuições
+## Contribuições
 
 Se você deseja contribuir para o desenvolvimento deste projeto, faça um fork e envie pull requests com melhorias ou correções.
 
-##Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License.
